@@ -1,0 +1,102 @@
+nest_id,field,mngt_soil,run,transect,dist_m,tramline,trap_outcome,nest_species,date
+DaDu06_FIT_1.4,DaDu06,NT,1,5-6m,5,no,Success,Lasioglossum pauxillum,2020-04-01
+ChBo01_FIT_1.1,ChBo01,NT,1,1-2m,1,no,Success,Lasioglossum subhirtum,2020-04-01
+ChBo01_FIT_1.2,ChBo01,NT,1,1-2m,1,no,Success,Lasioglossum subhirtum,2020-03-27
+ChBo01_FIT_1.3,ChBo01,NT,1,1-2m,1,no,Fail,NA,2020-04-01
+BlDe01_FIT_1.1,BlDe01,CT,1,1-2m,1,no,Success,Andrena flavipes,2020-03-29
+BlDe04_FIT_1.1,BlDe04,CT,1,0-1m,0,no,Success,Colletes cunicularius,2020-03-28
+BlDe04_FIT_1.2,BlDe04,CT,1,0-1m,0,no,Success,Lasioglossum subhirtum,2020-04-01
+BlDe04_FIT_1.3,BlDe04,CT,1,0-1m,0,no,Success,Lasioglossum subhirtum,2020-04-01
+BlDe04_FIT_1.4,BlDe04,CT,1,0-1m,0,no,Success,Lasioglossum subhirtum,2020-03-28
+BlDe04_FIT_1.5,BlDe04,CT,1,1-2m,1,no,Success,Andrena tibialis,2020-04-01
+BlDe04_FIT_1.6,BlDe04,CT,1,2-3m,2,no,Fail,NA,2020-04-01
+BlDe04_FIT_1.7,BlDe04,CT,1,5-6m,5,no,Fail,NA,2020-04-01
+BlDe04_FIT_1.8,BlDe04,CT,1,20-21m,20,yes,Success,Lasioglossum subhirtum,2020-04-01
+ChBo04_FIT_1.1,ChBo04,NT,1,0-1m,0,no,Fail,NA,2020-04-01
+ChBo04_FIT_1.2,ChBo04,NT,1,10-11m,10,no,Success,Colletes cunicularius,2020-03-28
+ChBo04_FIT_1.3,ChBo04,NT,1,20-21m,20,no,Fail,NA,2020-04-01
+AnCa01_FIT_1.8,AnCa01,CT,1,10-11m,10,no,Success,Andrena carantonica,2020-04-08
+AnCa01_FIT_1.9,AnCa01,CT,1,10-11m,10,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.1,AnCa01,CT,1,0-1m,0,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.5,AnCa01,CT,1,2-3m,2,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.7,AnCa01,CT,1,5-6m,5,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.2,AnCa01,CT,1,1-2m,1,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.6,AnCa01,CT,1,2-3m,2,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.3,AnCa01,CT,1,1-2m,1,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.10,AnCa01,CT,1,10-11m,10,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.12,AnCa01,CT,1,20-21m,20,no,Fail,NA,2020-04-08
+AnCa01_FIT_1.13,AnCa01,CT,1,30-31m,30,no,Fail,NA,2020-04-08
+DeJo07_FIT_1.3,DeJo07,CT,1,1-2m,1,no,Success,Lasioglossum lineare,2020-04-06
+DeJo07_FIT_1.4,DeJo07,CT,1,1-2m,1,no,Success,Andrena dorsata,2020-04-06
+DeJo07_FIT_1.5,DeJo07,CT,1,1-2m,1,no,Success,Andrena minutula,2020-04-06
+DeJo07_FIT_1.6,DeJo07,CT,1,1-2m,1,no,Fail,NA,2020-04-08
+DeJo07_FIT_1.8,DeJo07,CT,1,30-31m,30,yes,Success,Lasioglossum malachurum,2020-04-06
+DeJo07_FIT_1.7,DeJo07,CT,1,30-31m,30,yes,Success,Lasioglossum malachurum,2020-04-06
+PaWe05_FIT_1.1,PaWe05,NT,1,0-1m,0,no,Fail,NA,2020-04-08
+PaWe05_FIT_1.3,PaWe05,NT,1,30-31m,30,no,Fail,NA,2020-04-08
+PaWe05_FIT_1.4,PaWe05,NT,1,30-31m,30,no,Fail,NA,2020-04-08
+PaWe05_FIT_1.5,PaWe05,NT,1,30-31m,30,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.1,ChFa03,NT,1,0-1m,0,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.3,ChFa03,NT,1,0-1m,0,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.5,ChFa03,NT,1,0-1m,0,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.4,ChFa03,NT,1,0-1m,0,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.6,ChFa03,NT,1,1-2m,1,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.7,ChFa03,NT,1,1-2m,1,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.9,ChFa03,NT,1,2-3m,2,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.8,ChFa03,NT,1,1-2m,1,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.12,ChFa03,NT,1,20-21m,20,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.11,ChFa03,NT,1,20-21m,20,no,Fail,NA,2020-04-08
+ChFa03_FIT_1.13,ChFa03,NT,1,30-31m,30,no,Fail,NA,2020-04-08
+JoMe02_FIT_1.2,JoMe02,CT,1,2-3m,2,no,Success,Lasioglossum malachurum,2020-04-08
+JoMe02_FIT_1.1,JoMe02,CT,1,1-2m,1,no,Success,Lasioglossum malachurum,2020-04-08
+JaBu01_FIT_1.1,JaBu01,NT,1,1-2m,1,no,Success,Lasioglossum calceatum,2020-04-09
+SeCr01_FIT_1.8,SeCr01,CT,1,5-6m,5,no,Fail,NA,2020-04-09
+SeCr01_FIT_1.1,SeCr01,CT,1,0-1m,0,no,Success,Lasioglossum calceatum,2020-04-09
+SeCr01_FIT_1.5,SeCr01,CT,1,1-2m,1,no,Fail,NA,2020-04-09
+SeCr01_FIT_1.2,SeCr01,CT,1,0-1m,0,no,Fail,NA,2020-04-09
+SeCr01_FIT_1.3,SeCr01,CT,1,0-1m,0,no,No Attempt,NA,NA
+SeCr01_FIT_1.4,SeCr01,CT,1,0-1m,0,no,Success,Lasioglossum calceatum,2020-04-09
+SeCr01_FIT_1.6,SeCr01,CT,1,1-2m,1,no,Fail,NA,2020-04-09
+SeCr01_FIT_1.7,SeCr01,CT,1,1-2m,1,no,Fail,NA,2020-04-09
+DaDu06_FIT_2.2,DaDu06,NT,2,2-3m,2,no,Success,Lasioglossum pauxillum,2020-04-28
+DaDu06_FIT_2.1,DaDu06,NT,2,0-1m,0,no,Fail,NA,2020-05-06
+NiSe03_FIT_2.1,NiSe03,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+ChBo04_FIT_2.5,ChBo04,NT,2,10-11m,10,no,Fail,NA,2020-05-06
+ChBo04_FIT_2.2,ChBo04,NT,2,1-2m,1,no,Fail,NA,2020-05-06
+ChBo04_FIT_2.1,ChBo04,NT,2,0-1m,0,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.1,BlDe01,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.7,BlDe01,CT,2,1-2m,1,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.10,BlDe01,CT,2,5-6m,5,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.2,BlDe01,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.9,BlDe01,CT,2,2-3m,2,no,Success,Andrena flavipes,2020-04-28
+BlDe01_FIT_2.3,BlDe01,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.4,BlDe01,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.5,BlDe01,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+BlDe01_FIT_2.6,BlDe01,CT,2,0-1m,0,no,Success,Andrena flavipes,2020-05-06
+BlDe01_FIT_2.8,BlDe01,CT,2,2-3m,2,no,Fail,NA,2020-05-06
+BlDe04_FIT_2.5,BlDe04,CT,2,10-11m,10,no,Fail,NA,2020-05-06
+BlDe04_FIT_2.4,BlDe04,CT,2,5-6m,5,no,Fail,NA,2020-05-06
+BlDe04_FIT_2.3,BlDe04,CT,2,2-3m,2,no,Fail,NA,2020-05-06
+BlDe04_FIT_2.1,BlDe04,CT,2,1-2m,1,no,Fail,NA,2020-05-06
+AnCa01_FIT_2.4,AnCa01,CT,2,1-2m,1,no,Fail,NA,2020-05-06
+AnCa01_FIT_2.1,AnCa01,CT,2,0-1m,0,no,Fail,NA,2020-05-06
+AnCa01_FIT_2.5,AnCa01,CT,2,15-16m,15,no,Fail,NA,2020-05-06
+AnCa01_FIT_2.3,AnCa01,CT,2,1-2m,1,no,Fail,NA,2020-05-06
+AnCa01_FIT_2.2,AnCa01,CT,2,1-2m,1,no,Fail,NA,2020-05-06
+JoMe05_FIT_2.1,JoMe05,CT,2,1-2m,1,no,Success,Lasioglossum malachurum,2020-05-18
+JoMe05_FIT_2.2,JoMe05,CT,2,2-3m,2,no,Fail,NA,2020-05-18
+PaWe05_FIT_2.1,PaWe05,NT,2,20-21m,20,no,Fail,NA,2020-05-18
+PaWe05_FIT_2.4,PaWe05,NT,2,20-21m,20,no,Success,Lasioglossum pauxillum,2020-05-18
+PaWe05_FIT_2.3,PaWe05,NT,2,20-21m,20,no,Fail,NA,2020-05-18
+PaWe05_FIT_2.2,PaWe05,NT,2,20-21m,20,no,Fail,NA,2020-05-18
+PaWe05_FIT_2.5,PaWe05,NT,2,30-31m,30,no,Fail,NA,2020-05-18
+PaWe05_FIT_2.6,PaWe05,NT,2,30-31m,30,no,Fail,NA,2020-05-18
+DeJo03_FIT_2.3,DeJo03,CT,2,30-31m,30,yes,No Attempt,NA,NA
+DeJo03_FIT_2.2,DeJo03,CT,2,30-31m,30,yes,No Attempt,NA,NA
+DeJo03_FIT_2.1,DeJo03,CT,2,30-31m,30,yes,No Attempt,NA,NA
+YvCh03_FIT_2.1,YvCh03,NT,2,0-1m,0,no,Fail,NA,2020-05-18
+YvCh03_FIT_2.2,YvCh03,NT,2,10-11m,10,no,Fail,NA,2020-05-18
+YvCh03_FIT_2.3,YvCh03,NT,2,15-16m,15,no,Fail,NA,2020-05-18
+LuHe01_FIT_2.1,LuHe01,NT,2,0-1m,0,no,Success,Lasioglossum leucozonium,NA
+LuHe01_FIT_2.2,LuHe01,NT,2,0-1m,0,no,No Attempt,NA,NA
+BlDe04_FIT_2.2,BlDe04,CT,2,2-3m,2,no,Fail,NA,2020-05-06
