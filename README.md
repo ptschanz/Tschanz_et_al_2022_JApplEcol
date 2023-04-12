@@ -1,10 +1,16 @@
-# Code and data for: Tschanz et al. 2022 Journal of Applied Ecology
+# Code and data for: Tschanz et al. 2023 Journal of Applied Ecology
 
-This repository contains code and data used for: 
+## About
 
-Tschanz et al. 2022 Journal of Applied Ecology *Nesting of ground-nesting bees in arable fields is not associated with tillage system per se, but with other habitat features*
+This repository contains code and data used for the manuscript *Nesting of ground-nesting bees in arable fields is not associated with tillage system per se, but with distance to field edge, crop cover, soil and landscape context* published in [Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14317).
 
+### Graphical Abstract
 
+![](files/graphical-abstract.png)
+
+### Citation
+
+>Tschanz, P., Vogel, S., Walter, A., Keller, T., & Albrecht, M. (2023). Nesting of ground-nesting bees in arable fields is not associated with tillage system per se, but with distance to field edge, crop cover, soil and landscape context. *Journal of Applied Ecology*, 60, 158–169. https://doi.org/10.1111/1365-2664.14317
 
 ## Scripts
 
